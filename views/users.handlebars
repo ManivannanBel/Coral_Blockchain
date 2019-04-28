@@ -1,0 +1,42 @@
+<body>
+<div class="container" style="max-width:60%">
+
+
+    <div class="panel panel-primary">
+        <div class="panel-heading">Details</div>
+       
+        {{#each result}}
+            <div class="panel-body">
+                <div class="row">
+                    <div class="col-sm-4">User name :</div> 
+                    <div class="col-sm-4">{{userName}}</div>
+                </div>
+            </div>
+            <div class="panel-body">
+                <div class="row">
+                    <div class="col-sm-4">Email id :</div> 
+                    <div class="col-sm-4">{{emailId}}</div>
+                </div>
+            </div>
+            <div class="panel-body">
+                <div class="row">
+                    <div class="col-sm-4">Phone no :</div> 
+                    <div class="col-sm-4">{{phoneNo}}</div>
+                </div>
+            </div>
+            <div class="panel-body">
+                <div class="row">
+                    <div class="col-sm-4">Date :</div> 
+                    <div class="col-sm-4">{{dateTime}}</div>
+                </div>
+            </div>
+            </div>
+            <form method="GET">
+                    <!--input type="hidden" name="edit_email" value="{{emailId}}"-->
+                    <input type="submit" formaction="/edit_user/{{emailId}}" class="btn btn-primary" value="Edit">
+                    <input type="submit" formaction="/delete/{{emailId}}" class="btn btn-danger" value="Delete">
+            </form>
+        {{/each}}
+    
+</div>
+</body>
