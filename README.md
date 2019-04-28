@@ -25,3 +25,5 @@ To run this project
 ![Alt text](https://github.com/ManivannanBel/Coral_Blockchain/blob/master/screenshots/users.png?raw=true "Title")
 ### Delete user page
 ![Alt text](https://github.com/ManivannanBel/Coral_Blockchain/blob/master/screenshots/delete.png?raw=true "Title")
+### Update user page
+![Alt text](https://github.com/ManivannanBel/Coral_Blockchain/blob/master/screenshots/update.png?raw=true "Title")
