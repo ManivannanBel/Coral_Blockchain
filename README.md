@@ -19,9 +19,9 @@ To run this project
   * Creating different routes was some fun i enjoyed creating them.
   
 ## Screenshots.
-###Index page
+### Index page
 ![Alt text](https://github.com/ManivannanBel/Coral_Blockchain/blob/master/screenshots/home.png?raw=true "Title")
-###Search user page
+### Search user page
 ![Alt text](https://github.com/ManivannanBel/Coral_Blockchain/blob/master/screenshots/users.png?raw=true "Title")
-###Delete user page
+### Delete user page
 ![Alt text](https://github.com/ManivannanBel/Coral_Blockchain/blob/master/screenshots/delete.png?raw=true "Title")
