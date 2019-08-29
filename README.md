@@ -13,7 +13,6 @@ To run this project
 ## My Learnings.
   * I learnt many new things such as using handlebars template engine and partials in node js project.
   * Previously I only have experiance with Node js and mongoDB but now i have learnt to work with MySQL connection in Node js.
-  * Learnt GO language but unfortunatly I cant able to make REST API using GO.
   * I never concentrated on front end in my previous experience but this time I worked pretty much with front end.
   * Connecting to MySQL for the first time in Node js was a bit challenging because I encountered with some errors.
   * Creating different routes was some fun i enjoyed creating them.
